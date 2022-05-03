@@ -7,7 +7,7 @@
 Install my-project with npm
 
 ```bash
-    pip Install request & bs4 & html5lib
+    pip install requests , bs4 , html5lib
 ```
     
 ## Support
